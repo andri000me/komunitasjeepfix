@@ -18,7 +18,7 @@
 	<meta name="designer" content="Anton Sofyan, 4ntonsofyan@gmail.com">
 	<meta name="reply-to" content="4ntonsofyan@gmail.com">
 	<meta name="owner" content="Anton Sofyan">
-	<meta name="url" content="https://www.sekolahku.web.id">
+	<meta name="url" content="">
 	<meta name="identifier-URL" content="https://www.sekolahku.web.id">
 	<meta name="category" content="Admission, Education">
 	<meta name="coverage" content="Worldwide">
